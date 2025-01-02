@@ -1,0 +1,14 @@
+{
+  "name": "new-year-2025-generative-ai",
+  "version": "1.0.0",
+  "description": "```sh # ref. https://www.python.jp/install/macos/virtualenv.html $ python3 -m venv .venv $ source .venv/bin/activate $ deactivate ```",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.3"
+  }
+}
